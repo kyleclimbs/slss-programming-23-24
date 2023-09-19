@@ -103,3 +103,5 @@ e.g.
 | Bruce Wayne | 35         | Aquarius    | Intelligence/ $ |
 | Mr. Ubial   | Unaging    | All of them | Dad strength    |
 | Yourself    | Your age   | Your Sign   | Super strength  |
+
+
