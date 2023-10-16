@@ -89,14 +89,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean.md",
+                "file": "Lists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db8b51ccaea42912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natural Language Processing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean.md",
+                "file": "Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean.md",
+                "file": "Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean.md"
+                "file": "Natural Language Processing.md"
               }
             }
           },
@@ -234,16 +246,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "134d5e518b41d02e",
+  "active": "db8b51ccaea42912",
   "lastOpenFiles": [
-    "Natural Language Processing.md",
-    "Markdown(Re)introduction.md",
+    "star_wars_bot.py",
+    "star",
     "Lists.md",
-    "Headers.md",
-    "Errors.md",
-    "Design.md",
     "Conditionals.md",
     "Boolean.md",
+    "Natural Language Processing.md",
+    "Headers.md",
+    "Markdown(Re)introduction.md",
+    "Errors.md",
+    "Design.md",
     "chatbot.py",
     "Untitled"
   ]
